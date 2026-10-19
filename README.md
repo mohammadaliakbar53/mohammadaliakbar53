@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**mohammadaliakbar53/mohammadaliakbar53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mohammad 👋
 
-Here are some ideas to get you started:
+### Student Developer | Python | AI & Data Science | Robotics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student from Pakistan interested in programming,
+artificial intelligence, and electronics.
+
+I enjoy learning by building practical projects and
+solving programming problems.
+
+## 🛠️ Skills & Technologies
+
+- **Programming:** Python
+- **Electronics:** Arduino, sensors, and microcontrollers
+- **Currently Exploring:** AI and Data Science
+- **Tools:** Git and GitHub
+
+## 🚀 Projects
+
+- ☀️ **Single-Axis Solar Tracker**
+  - An Arduino project that uses LDR sensors to track light.
+
+- 🤖 **Obstacle-Avoiding Robot Car**
+  - A robotics project using an Arduino and ultrasonic sensor.
+
+- 🐍 **Python Practice**
+  - Programming exercises covering loops, lists, and problem-solving.
+
+## 📚 Currently Learning
+
+- Python programming
+- Git and GitHub
+- AI and Data Science
+- Embedded systems and robotics
+
+## 🎯 Goals
+
+- Build practical software and hardware projects
+- Improve my programming and problem-solving skills
+- Explore open-source development
+- Develop a strong engineering portfolio
+
+---
+
+*Learning, building, and improving one project at a time.*
